@@ -1,0 +1,25 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "main": "scrap.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "osmosis": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js;main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigdaarpit/quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigdaarpit/quiz/issues"
+  },
+  "homepage": "https://github.com/bigdaarpit/quiz#readme",
+  "description": ""
+}
